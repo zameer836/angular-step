@@ -1,0 +1,15 @@
+Pre steps: To install angular
+login as admin and in cmd type commnad (npm i @angular/cli)
+
+
+
+Steps:
+To create new application: in cmd type command (ng new "name of application"))
+it will ask for angular routing - type (Yes)
+it will ask for style sheet selection - type (CSS)
+It will process and give successfull message.
+
+To open created application in vs-code: In cmd inside the created application folder type command (code .)
+After entering into the vs-code: open new terminal and type command (ng serve)-to start the application/(ng serve --port "port number")-to start the angular application in desired port.
+Note: By default the angular application runs on port 4200
+
