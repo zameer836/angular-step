@@ -13,5 +13,3 @@ To open created application in vs-code: In cmd inside the created application fo
 After entering into the vs-code: open new terminal and type command (ng serve)-to start the application/(ng serve --port "port number")-to start the angular application in desired port.
 Note: By default the angular application runs on port 4200
 
-//steps after modifying the data
-1.dummy steps
